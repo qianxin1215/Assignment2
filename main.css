@@ -1,0 +1,46 @@
+*{
+    background-color: #F0FFFF;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: chocolate;
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    font-size: 64px;
+    margin: 2rem 0;
+    
+    
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: blueviolet;
+    padding: 1.5em;
+}
+p{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 1em;
+    margin: auto;
+}
+div{
+    padding: 2em;
+    font-size: 30px;
+    background-color: aqua;
+    
+}
+img {
+    display: block; 
+    margin: 1.5rem auto 0 auto; 
+}
